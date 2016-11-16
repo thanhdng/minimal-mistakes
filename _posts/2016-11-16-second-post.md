@@ -1,6 +1,6 @@
 ---
 layout: single
-title: First post
+title: Second post
 ---
 # This is content
 ok

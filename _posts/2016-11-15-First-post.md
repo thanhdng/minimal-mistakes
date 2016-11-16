@@ -1,6 +1,0 @@
----
-layout: single
-title: First post
----
-# This is content
-ok

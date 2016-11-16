@@ -1,11 +1,9 @@
 # main links
 main:
 
+  - title: "Post by years"
+    url: /year-archive/
+  - title: "Post by collections"
+    url: /collection-archive/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
